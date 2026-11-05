@@ -7,7 +7,7 @@ implementation, in its own file, with tests at the bottom.
 
 ### Searching
 - [ ] Linear search
-- [ ] Binary search
+- [x] Binary search
 
 ### Sorting
 - [ ] Bubble sort
